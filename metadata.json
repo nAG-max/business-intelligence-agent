@@ -1,0 +1,6 @@
+{
+  "name": "ResearchPro AI",
+  "description": "An AI-powered business research agent that discovers, verifies, organizes, and summarizes business data from public internet sources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
